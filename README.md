@@ -1,6 +1,7 @@
 # My Website.
-### By me.
 #### Here In this source I will be explaining Clinet-Side Scripting and a multitude of definitions reffering to this.
+
+
 
 
 
