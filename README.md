@@ -6,4 +6,4 @@ _
 _
 _
 ## ***Client-Side scripting:***
-### **What Is Internet Backbone -** <sub> The Internet backbone may be defined by the principal data routes between large, strategically Interconnected computer networks and core routers of the Internet. 
+### **What Is Internet Backbone** - <sub> The Internet backbone Is defined as the core of the Internet where long-distance, high performance networks In which allow different selections of the Internet. 
