@@ -1,5 +1,5 @@
 <html>
-<title> My Website.
+<h1> My Website.
 <h3> Here In this source I will be explaining Client-Side Scripting and a multitude of definitions reffering to this.
  
 <h1> Client-Side scripting:
