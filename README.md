@@ -17,7 +17,7 @@
 
  <h3> How Is HTTPS different from HTTP? - <h4> The two are essentially the same, in that both of them refer to the same “hypertext transfer protocol” that enables requested web data to be presented on your screen. But, HTTPS is still slightly different, more advanced, and much more secure. Simply put, HTTPS protocol is an extension of HTTP.
 
- <h3> What were the Web 1.0, 2.0 and 3.0 stages of development? Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web." 
+ <h3> What were the Web 1.0, 2.0 and 3.0 stages of development? - <h4> Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web." 
 
  <h3> What are the roles of markup languages In the Web? - <h4> 
 <h3> 
