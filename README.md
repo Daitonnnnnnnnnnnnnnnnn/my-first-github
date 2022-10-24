@@ -1,6 +1,6 @@
 <h1> Markdown Website.
  
-</h2> Client-Side scripting:
+<h2> Client-Side scripting:
 
 
  <h3> What Is Internet Backbone - <h4> The Internet backbone Is defined as the core of the Internet where long-distance, high performance networks enable different selections of the Internet to be accesed. 
