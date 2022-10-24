@@ -1,10 +1,10 @@
 <h1> Markdown Website.
-<h3> Here In this source I will be explaining Client-Side Scripting and a multitude of definitions reffering to this.
+<strong> Here In this source I will be explaining Client-Side Scripting and a multitude of definitions reffering to this.
  
 <h1> Client-Side scripting:
 
 
- <h3> <strong> What Is Internet Backbone - <h4> The Internet backbone Is defined as the core of the Internet where long-distance, high performance networks enable different selections of the Internet to be accesed. 
+ <h3> What Is Internet Backbone - <h4> The Internet backbone Is defined as the core of the Internet where long-distance, high performance networks enable different selections of the Internet to be accesed. 
 
 
  <h3> What Is the difference between clients and servers on the internet? - <h4> A server Is a sample of software or hardware that  serves a specific service to It's clients whilst a client is a user program that connects to a server to access a service. 
