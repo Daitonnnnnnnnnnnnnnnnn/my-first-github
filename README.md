@@ -9,7 +9,9 @@
 
  <h3> What Is the difference between clients and servers on the internet? - <h4> A server Is a sample of software or hardware that  serves a specific service to It's clients whilst a client is a user program that connects to a server to access a service. 
 
- <h3> How are certain hardware components such as routers, servers, switches and work stations a part of the Internet? - <h4> What do Routers do? Routers connect two or more packet-switched networks or subnetworks. In other words, Routers manage traffic between networks. What do Servers do? Servers recieve, store and send data. Basically the server or servers act as the main hub of the network, providing Information to connected devices. What do Switches do? Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
+ <h3> How are certain hardware components such as routers, servers, switches and work stations a part of the Internet? - <h4> What do Routers do? Routers connect two or more packet-switched networks or subnetworks. In other words, Routers manage traffic between networks. 
+  What do Servers do? Servers recieve, store and send data. Basically the server or servers act as the main hub of the network, providing Information to connected devices. 
+  What do Switches do? Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
 
  <h3> What Is the Web and how does It associate with the Internet? - <h4> The Web Is a software that lets you use content that Is provided within Web browsers. Example of Web Browsers are Google, Microsoft Edge ETC.
 
@@ -17,6 +19,6 @@
 
  <h3> What were the Web 1.0, 2.0 and 3.0 stages of development? Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web." 
 
- <h3> What are the roles of markup languages In the Web? - 
+ <h3> What are the roles of markup languages In the Web? - <h4> 
 <h3> 
 
