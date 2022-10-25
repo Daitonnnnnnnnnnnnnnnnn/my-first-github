@@ -24,8 +24,8 @@
 
  <h3> What Is the Internet Protocol Suite (TCP/IP) model of networking? - </h4> The Internet protocol suite, also known as TCP/IP, Is the set of communication protocols used In the Internet and also In similar computer networks.  
  
- <h3> What do Switches do? - Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
-
+ <h3> 
+  
  <h3> What Is the Web and how does It associate with the Internet? - </h4> The Web Is a software that lets you use content that Is provided within Web browsers. Example of Web Browsers are Google, Microsoft Edge ETC.
 
  <h3> How Is HTTPS different from HTTP? - </h4> The two are essentially the same, in that both of them refer to the same “hypertext transfer protocol” that enables requested web data to be presented on your screen. But, HTTPS is still slightly different, more advanced, and much more secure. Simply put, HTTPS protocol is an extension of HTTP.
@@ -36,5 +36,5 @@
   
  <h3> What are some comparisons and contrasts to markup to scripting languages? - <h/4> A markup language Is used to control the presentation of data, like "represent these user names as a bullet list or as a table". A scripting language Is used to mediate between programs In order to generate data.
   
- <h3>
+  <h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? - </h4> 
 
