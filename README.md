@@ -9,14 +9,18 @@
  
  <h3> What Is the difference between clients and servers on the Internet? - </h4> A server Is a sample of software or hardware that  serves a specific service to It's clients whilst a client is a user program that connects to a server to access a service. 
 
+ ---------------------------------------------------------------------------------------------------------
+
  <h3> How are certain hardware components such as routers, servers, switches and work stations a part of the Internet? - 
  <h3> <li> What do Routers do: 
  </h4> Routers connect two or more packet-switched networks or subnetworks. In other words, Routers manage traffic between networks. 
  <h3> <li> What do Servers do: 
  </h4> Servers recieve, store and send data. Basically the server or servers act as the main hub of the network, providing Information to connected     devices.
  <h3> <li> What do Switches do: 
- </h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected devices to share information and talk to
+ </h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected 
+ devices to share information and talk to
 
+ ----------------------------------------------------------------------------------------------------------
 
  <h3> What Is the Internet Protocol Suite (TCP/IP) model of networking? - </h4> The Internet protocol suite, also known as TCP/IP, Is the set of communication protocols used In the Internet and also In similar computer networks.  
  
