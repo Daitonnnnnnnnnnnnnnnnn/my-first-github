@@ -18,6 +18,7 @@
 
  <h3> What were the Web 1.0, 2.0 and 3.0 stages of development? - </h4> Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web." 
 
- <h3> What are the roles of markup languages In the Web? - <h4> 
- <h3> 
+ <h3> What are the roles of markup languages In the Web? - </h4> Markup languages are computer languages that are used to structure, format, or define relationships between different parts of text documents with the help of symbols or tags inserted In the document.
+  
+ <h3> What are some comparisons and contrasts to markup to scripting languages? 
 
