@@ -15,7 +15,7 @@
  <h3> <li> What do Routers do: 
  </h4> Routers connect two or more packet-switched networks or subnetworks. In other words, Routers manage traffic between networks. 
  <h3> <li> What do Servers do: 
- </h4> Servers recieve, store and send data. Basically the server or servers act as the main hub of the network, providing Information to connected     devices.
+ </h4> Servers recieve, store and send data. Basically the server or servers act as the main hub of the network, providing Information to connected devices.
  <h3> <li> What do Switches do: 
  </h4> Switches connect multiple devices, such as computers, wireless access points, printers, and servers on the same network within a building. enables connected 
  devices to share information and talk to
@@ -28,13 +28,13 @@
   
  <h3> What Is the Web and how does It associate with the Internet? - </h4> The Web Is a software that lets you use content that Is provided within Web browsers. Example of Web Browsers are Google, Microsoft Edge ETC.
 
- <h3> How Is HTTPS different from HTTP? - </h4> The two are essentially the same, in that both of them refer to the same “hypertext transfer protocol” that enables requested web data to be presented on your screen. But, HTTPS is still slightly different, more advanced, and much more secure. Simply put, HTTPS protocol is an extension of HTTP.
+ <h3> How Is HTTPS different from HTTP? - </h4> The two are essentially the same, In that both of them refer to the same “hypertext transfer protocol” that enables requested web data to be presented on your screen. But, HTTPS Is still slightly different, more advanced, and much more secure. Simply put, HTTPS protocol Is an extension of HTTP.
 
  <h3> What were the Web 1.0, 2.0 and 3.0 stages of development? - </h4> Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web." 
 
  <h3> What are the roles of markup languages In the Web? - </h4> Markup languages are computer languages that are used to structure, format, or define relationships between different parts of text documents with the help of symbols or tags inserted In the document.
   
- <h3> What are some comparisons and contrasts to markup to scripting languages? - <h/4> A markup language Is used to control the presentation of data, like "represent these user names as a bullet list or as a table". A scripting language Is used to mediate between programs In order to generate data.
+ <h3> What are some comparisons and contrasts to markup to scripting languages? - </h4> A markup language Is used to control the presentation of data, like "represent these user names as a bullet list or as a table". A scripting language Is used to mediate between programs In order to generate data.
   
-  <h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? - </h4> 
+  <h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? - </h4> HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages dynamic and Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor. 
 
