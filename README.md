@@ -32,9 +32,7 @@
 
  <h3> What were the Web 1.0, 2.0 and 3.0 stages of development? - </h4> Web 1.0 Is the "read-only Web," Web 2.0 Is the "participative social Web," and Web 3.0 Is the "read, write, execute Web." 
   
- Link to following question -
-                             
-                                               [(https://www.youtube.com/watch?v=bsNcjya56v8&t=3s)]
+<Li> Link to following question: [(https://www.youtube.com/watch?v=bsNcjya56v8&t=3s)]
 
  <h3> What are the roles of markup languages In the Web? - </h4> Markup languages are computer languages that are used to structure, format, or define relationships between different parts of text documents with the help of symbols or tags inserted In the document.
   
@@ -44,11 +42,9 @@
   
  <h3> What Is the relationship between SGML, XML, HTML, XHTML, DHTML and MD? - </h4> HTML and XML are both descendants of an earlier markup language known as SGML. SGML Is a complicated set of rules that define document structures. XML Is a subset of SGML that does the same thing, using fewer rules. XHTML Is a stricter, more XML-based version of HTML. XHTML Is HTML defined as an XML application. XHTML Is supported by all major browsers. HTML Is not a markup or programming language but It Is a term that combines the features of various web development technologies for creating the web pages dynamic and Interactive. Markdown Is a lightweight markup language for creating formatted text using a plain-text editor. 
   
- Link to further elaborate -
-                             
-                                                   [(https://www.youtube.com/watch?v=Y1r4RF3nW6I)]
+<Li> Link to further elaborate: [(https://www.youtube.com/watch?v=Y1r4RF3nW6I)]< >[(https://www.youtube.com/watch?v=CG6deJGVe6c)]
                            
-                                                   [(https://www.youtube.com/watch?v=CG6deJGVe6c)]
+                                                 
 
  <h3> How does CSE1210 connect to your future occupational choices? - </h4> It doesn't. 
   
